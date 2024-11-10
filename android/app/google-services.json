@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162139122767",
+    "project_id": "capstone1-d9d19",
+    "storage_bucket": "capstone1-d9d19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162139122767:android:db6b5604b9a2176b0b0e3a",
+        "android_client_info": {
+          "package_name": "com.yscapauth.capstone_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwYpL45rS_SZEF9QfQPYMarR2kE50G3Tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
